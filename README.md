@@ -16,3 +16,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mertmericc&show_icons=true&locale=en" alt="mertmericc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mertmericc&" alt="mertmericc" /></p>
+
+![snake gif](https://github.com/MertMericc/MertMericc/blob/output/github-contribution-grid-snake.gif)
