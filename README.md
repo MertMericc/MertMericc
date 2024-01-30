@@ -18,4 +18,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mertmericc&show_icons=true&locale=en" alt="mertmericc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mertmericc&" alt="mertmericc" /></p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tahircanyildiz/tahircanyildiz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tahircanyildiz/tahircanyildiz/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tahircanyildiz/tahircanyildiz/output/github-contribution-grid-snake.svg">
+</picture>
