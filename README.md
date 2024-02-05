@@ -1,4 +1,4 @@
-[![MasterHead](https://dz2cdn1.dzone.com/storage/article-thumb/15917360-thumb.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Mert Meriç Daşdemir</h1>
 <h3 align="center">A passionate backend developer from Türkiye</h3>
