@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mert Meriç Daşdemir</h1>
 <h3 align="center">A passionate backend developer from Türkiye</h3>
-- 💬 Ask me about **.NET , .NET Core , React**
+- 💬 Ask me about **.NET , .NET Core , Javascript, Typescript**
 
 - 📫 How to reach me **mertdasdemir34@gmail.com**
 <h3 align="left">Connect with me:</h3>
