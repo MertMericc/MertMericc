@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Mert Meriç Daşdemir</h1>
 <h3 align="center">A passionate backend developer from Türkiye</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mertmericc&label=Profile%20views&color=0e75b6&style=flat" alt="mertmericdasdemir" /> </p>
+
 - 💬 Ask me about **.NET , .NET Core , Javascript, Typescript**
 
 - 📫 How to reach me **mertdasdemir34@gmail.com**
