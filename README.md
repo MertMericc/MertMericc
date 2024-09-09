@@ -14,6 +14,7 @@
 <a href="https://leetcode.com/u/mertmericc/" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="mertmericc" height="30" width="40" />
 </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mert-meri%C3%A7-da%C5%9Fdemir-09babb209/)
 
 
 </p>
