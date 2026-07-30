@@ -1,60 +1,209 @@
+<h1 align="center">Merhaba 👋, Ben Mert Meriç Daşdemir</h1>
 
+<h3 align="center">
+Full Stack .NET Developer • Backend Developer • Distributed Systems
+</h3>
 
-<h1 align="center">Hi 👋, I'm Mert Meriç Daşdemir</h1>
-<h3 align="center">A passionate backend developer from Türkiye</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mertmericc&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="mertmericdasdemir" /> </p>
+<p align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+.NET+Developer;ASP.NET+Core+Developer;RabbitMQ+%7C+MassTransit+%7C+Redis;Microservices+%7C+DDD+%7C+Onion+Architecture;Always+Learning+New+Technologies"/>
 
-- 💬 Ask me about **.NET , .NET Core , Javascript, Typescript**
+</p>
 
-- 📫 How to reach me **mertdasdemir34@gmail.com**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mert meriç daşdemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mert meriç daşdemir" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/mertmericc/" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="mertmericc" height="30" width="40" />
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mertmericc&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+
+# 👨‍💻 Hakkımda
+
+🚀 3+ yıllık Full Stack .NET geliştiricisiyim.
+
+💼 ERP, FinTech ve E-Ticaret projelerinde görev aldım.
+
+🏗️ Ölçeklenebilir backend sistemleri geliştirmeyi seviyorum.
+
+⚙️ ASP.NET Core, RabbitMQ, MassTransit, Redis ve SignalR ile dağıtık sistemler geliştiriyorum.
+
+📦 Clean Architecture, Onion Architecture ve Domain Driven Design (DDD) prensiplerini aktif olarak kullanıyorum.
+
+🐳 Docker ve Kubernetes ile container tabanlı uygulamalar geliştiriyorum.
+
+🌱 Sürekli yeni teknolojiler öğrenmeye ve uygulamaya önem veriyorum.
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,docker,kubernetes,mongodb,mysql,redis,git,linux,react,js,ts,html,css"/>
+
+</p>
+
+---
+
+# ⚙️ Backend & Architecture
+
+### Backend
+
+- ASP.NET Core MVC
+- ASP.NET MVC
+- REST API
+- Minimal API
+- Entity Framework Core
+- LINQ to DB
+- ADO.NET
+
+### Architecture
+
+- Clean Architecture
+- Onion Architecture
+- Domain Driven Design (DDD)
+- Microservices
+- Repository Pattern
+- Unit Of Work
+- Transactional Outbox
+
+### Messaging
+
+- RabbitMQ
+- MassTransit
+- SignalR
+- Hangfire
+- Redis
+
+### Database
+
+- SQL Server
+- MySQL
+- MariaDB
+- MongoDB
+
+### Frontend
+
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- jQuery
+- React
+- Kendo UI / Telerik
+
+### DevOps
+
+- Docker
+- Kubernetes
+- Git
+- GitLab
+- Bitbucket
+- Jira
+
+---
+
+# 💬 Bana Bunları Sorabilirsin
+
+- ASP.NET Core
+- .NET
+- C#
+- REST API
+- Minimal API
+- EF Core
+- LINQ to DB
+- RabbitMQ
+- MassTransit
+- SignalR
+- Hangfire
+- Redis
+- SQL Server
+- Docker
+- Kubernetes
+- Onion Architecture
+- DDD
+- Microservices
+- SOLID
+- Design Patterns
+
+---
+
+# 🤝 Bana Ulaş
+
+<p align="center">
+
+<a href="mailto:mertdasdemir34@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://www.linkedin.com/in/mertmericdasdemir/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/mertmericc/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
-<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> 
-<a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> 
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MertMericc&theme=tokyonight&column=4&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 </p>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mertmericc&show_icons=true&locale=en&layout=compact" alt="mertmericc" /></p>
+# 📊 GitHub İstatistikleri
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mertmericc&show_icons=true&locale=en" alt="mertmericc" /></p>
+<p align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mertmericc&" alt="mertmericc" /></p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MertMericc&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MertMericc&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MertMericc&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MertMericc&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tahircanyildiz/tahircanyildiz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tahircanyildiz/tahircanyildiz/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tahircanyildiz/tahircanyildiz/output/github-contribution-grid-snake.svg">
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/tahircanyildiz/tahircanyildiz/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/tahircanyildiz/tahircanyildiz/output/github-contribution-grid-snake.svg">
+
+<img alt="Snake Animation"
+src="https://raw.githubusercontent.com/tahircanyildiz/tahircanyildiz/output/github-contribution-grid-snake.svg">
+
 </picture>
+
+---
+
+<h3 align="center">
+
+⭐ Backend Development • Distributed Systems • Clean Code • Continuous Learning ⭐
+
+</h3>
